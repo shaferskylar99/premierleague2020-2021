@@ -21,11 +21,13 @@ Now let's look deeper into these two graphs and what we can learn from them. The
 
   All of these teams were connected with at least two of the others in the similarity graph, with Crystal Palace, West Ham, and Tottenham being connected to 3 of the 4 others. These teams were also all, besides Crystal Palace, in between 3rd and 7th in the table, so some of the top-quality teams in the league, but unable to really get close to Manchester City (Liverpool, in 3rd, were 5 points from Manchester United but 17 from Manchester City). 
   Each of these teams plays a somewhat-rigid style, as we can tell by looking at who scores their goals. For Liverpool, 
-  That's not to say they have particular tweaks in their system. Klopp and Liverpool are known for their unique pressing style as well as their tendency to drop a defensive midfielder into the back line when they have the ball, and use Firminho as a number 9 rather than a true striker. Liverpool and Leicester are also unique in their usage of outside backs in the attack. 
+  That's not to say that their systems are not . Klopp and Liverpool are known for their unique pressing style as well as their tendency to drop a defensive midfielder into the back line when they have the ball, and use Firminho as a number 9 rather than a true striker. Liverpool and Leicester are also unique in their usage of outside backs in the attack. 
 
 ## 2. Manchester United is Confusing
 
-## 3.
+## 3. The Cat and Mouse Game of Possesion vs. Counter Attacking Football
 
-## 4. If you want to punch above your weight, bring a unique gameplan.
+## 4. Parking the Bus or Playing the Game
+
+## 5. If you want to punch above your weight, bring a unique gameplan.
 
