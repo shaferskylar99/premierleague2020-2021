@@ -17,7 +17,7 @@ Now let's look deeper into these two graphs and what we can learn from them. The
 
 # 1. Playstyles and Their Ability to Match Up
 
-## 1. Liverpool, Leicester City, West Ham, Tottenham, Crystal Palace
+## 1. Liverpool, Leicester City, West Ham, Tottenham, and Crystal Palace Show Similarities
 
   All of these teams were connected with at least two of the others in the similarity graph, with Crystal Palace, West Ham, and Tottenham being connected to 3 of the 4 others. These teams were also all, besides Crystal Palace, in between 3rd and 7th in the table, so some of the top-quality teams in the league, but unable to really get close to Manchester City (Liverpool, in 3rd, were 5 points from Manchester United but 17 from Manchester City). 
   Each of these teams plays a somewhat-rigid style, as we can tell by looking at who scores their goals. For Liverpool, 
