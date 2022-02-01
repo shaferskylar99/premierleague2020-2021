@@ -27,7 +27,7 @@ Now let's look deeper into these two graphs and what we can learn from them. The
 
 ## 3. The Cat and Mouse Game of Possesion vs. Counter Attacking Football
 
-## 4. Parking the Bus or Playing the Game
+## 4. Parking the Bus or Playing the Game: Top Teams and Relegation Candidates
 
 ## 5. If you want to punch above your weight, bring a unique gameplan.
 
