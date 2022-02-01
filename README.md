@@ -5,8 +5,19 @@ To begin, I want to go over some of the code I produced to run this analysis. I 
 
 Now, let's look at the data!
 
-First, here is a graph of the most similar teams, with each team's top 3 attached to them (some have more than 3, meaning they were in the top 3 most correlated of other separate teams from their top 3, as well. 
+First, here is a graph of the MOST similar teams, with each team's top 3 attached to them (some have more than 3, meaning they were in the top 3 most correlated of other separate teams not in their top 3, as well). 
 
+![image](https://user-images.githubusercontent.com/56563084/152068839-21502e90-37b1-4a98-bd0a-d5ca98ca1559.png)
 
+Next is bottom 4 least similar teams associated with each team. Teams that are connected with each other are the LEAST similar in terms of who they win and lose against (some have more than 4, meaning they were in the bottom 4 most correlated of other separate teams not their top 4, as well).
 
-Next is bottom 4 least similar teams associated with each team.
+![image](https://user-images.githubusercontent.com/56563084/152068861-68e29eba-b644-46db-8f39-0f8a2010785e.png)
+
+Now let's look deeper into these two graphs and what we can learn from them. The following sections are insights derived from a combination of these graphs and external information which will be explained.
+
+## 1. Playstyles and Their Ability to Match Up
+
+# 1. Liverpool, Leicester City, West Ham, Tottenham, Crystal Palace
+
+All of these teams were connected with at least two of the others in the similarity graph, with Crystal Palace, West Ham, and Tottenham being connected to 3 of the 4 others. These teams were all, besides Crystal Palace, in between 3rd and 7th in the table. 
+
