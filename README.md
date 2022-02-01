@@ -11,13 +11,21 @@ First, here is a graph of the MOST similar teams, with each team's top 3 attache
 
 Next is bottom 4 least similar teams associated with each team. Teams that are connected with each other are the LEAST similar in terms of who they win and lose against (some have more than 4, meaning they were in the bottom 4 most correlated of other separate teams not their top 4, as well).
 
-![image](https://user-images.githubusercontent.com/56563084/152068861-68e29eba-b644-46db-8f39-0f8a2010785e.png)
+![image](https://user-images.githubusercontent.com/56563084/152070834-4b74122f-5c69-42a1-b998-2d6acabff0ce.png)
 
 Now let's look deeper into these two graphs and what we can learn from them. The following sections are insights derived from a combination of these graphs and external information which will be explained.
 
-## 1. Playstyles and Their Ability to Match Up
+# 1. Playstyles and Their Ability to Match Up
 
-# 1. Liverpool, Leicester City, West Ham, Tottenham, Crystal Palace
+## 1. Liverpool, Leicester City, West Ham, Tottenham, Crystal Palace
 
-All of these teams were connected with at least two of the others in the similarity graph, with Crystal Palace, West Ham, and Tottenham being connected to 3 of the 4 others. These teams were all, besides Crystal Palace, in between 3rd and 7th in the table. 
+  All of these teams were connected with at least two of the others in the similarity graph, with Crystal Palace, West Ham, and Tottenham being connected to 3 of the 4 others. These teams were also all, besides Crystal Palace, in between 3rd and 7th in the table, so some of the top-quality teams in the league, but unable to really get close to Manchester City (Liverpool, in 3rd, were 5 points from Manchester United but 17 from Manchester City). 
+  Each of these teams plays a somewhat-rigid style, as we can tell by looking at who scores their goals. For Liverpool, 
+  That's not to say they have particular tweaks in their system. Klopp and Liverpool are known for their unique pressing style as well as their tendency to drop a defensive midfielder into the back line when they have the ball, and use Firminho as a number 9 rather than a true striker. Liverpool and Leicester are also unique in their usage of outside backs in the attack. 
+
+## 2. Manchester United is Confusing
+
+## 3.
+
+## 4. If you want to punch above your weight, bring a unique gameplan.
 
