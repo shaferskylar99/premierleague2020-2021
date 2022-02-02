@@ -55,7 +55,7 @@ Note that Chelsea and Brighton are listed as similar
 Brighton have many connections in the second graph, Leeds, Leicester winning the league, West Ham, Liverpool, Leicester
 At some point you have to push numbers forward to pursue chance creation, it's a matter of deciding when you can do so to maximize return and minimize the risk of conceding a goal yourself. 
 Why did I group clubs by the similarity of their wins in the first place? I thought this would be best by understanding that unique gameplans utilize unique spaces, allowing them to perform better against certain opposing strategies. In turn, if we look at the similarity of results, we can then deduce who likely plays the most like each other. 
-Chelsea, Arsenal, and fear: Man City having to break down low-blocks, while Chelsea and Arsenal don't always have to, because they get less respect
+Chelsea, Arsenal, and fear: Man City having to break down low-blocks, while Chelsea and Arsenal don't always have to, because they get less respect, that's why Arsenal and Mahcester City are so unrelated, Arsenal gets to play bad teams straightup, Manchester City does not
 Fluidity (given that each player on a team is capable) is clearly worth it in most cases
 
 The two clubs who saw the most success (Manchester City in winning the league, Chelsea in winning the Champions League) each chose to be unique in how they played the game.
