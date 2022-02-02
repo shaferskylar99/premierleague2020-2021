@@ -39,7 +39,7 @@ The aforementioned names scored the following percentage of their team's goals: 
   
 ## 2. Teams that Act Normal/Boring
 
-How could we know if teams seem to have a strategy that produces expected results, beating bad teams and losing good teams more consistently than others, acting as expected? If we look at the first graph, we can see who has the most connections, who is correlated with the most teams, and in turn who is most correlated with the norm. We will mention some of those teams now, and shame them for playing boring. We will get into the exciting teams later (I love you Brighton).
+How could we know if teams seem to have a strategy that produces expected results, beating bad teams and losing good teams more consistently than others, acting as expected? If we look at the first graph, we can see who has the most connections, who the most teams are correlated with, and in turn who is most correlated with the norm. We will mention some of those teams now, and shame them for playing boring. We will get into the exciting teams later (I love you Brighton).
 
 
 
