@@ -9,7 +9,7 @@ First, here is a graph of the MOST similar teams, with each team's top 3 attache
 
 ![image](https://user-images.githubusercontent.com/56563084/152068839-21502e90-37b1-4a98-bd0a-d5ca98ca1559.png)
 
-Next is bottom 4 least similar teams associated with each team. Teams that are connected with each other are the LEAST similar in terms of who they win and lose against (some have more than 4, meaning they were in the bottom 4 most correlated of other separate teams not their top 4, as well).
+Next is bottom 3/4 least similar teams associated with each team. Teams that are connected with each other are the LEAST similar in terms of who they win and lose against (some have more than 4, meaning they were in the bottom 4 most correlated of other separate teams not their top 4, as well). 
 
 ![image](https://user-images.githubusercontent.com/56563084/152070834-4b74122f-5c69-42a1-b998-2d6acabff0ce.png)
 
