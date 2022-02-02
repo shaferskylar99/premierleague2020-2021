@@ -46,6 +46,7 @@ Manchester City, Liverpool, Leicester City
 ## 4. Parking the Bus and Countering or Playing the Game: Top Teams and Relegation Candidates
 
 Chelsea and Brighton as opposites in league and style, but neither can finish, Leicester and Liverpool Counter versus Sheffield or West Brom, good or bad, attack or low block, Risk of playing straight up but also high-reward
+Note that Chelsea and Brighton are listed as similar
 
 ## 5. If You Want to Punch Above Your Weight, Bring a Unique Gameplan/Bielsa Ball.
 
