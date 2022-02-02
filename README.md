@@ -60,7 +60,7 @@ Fluidity (given that each player on a team is capable) is clearly worth it in mo
 
 The two clubs who saw the most success (Manchester City in winning the league, Chelsea in winning the Champions League) each chose to be unique in how they played the game.
 
-## 6. Manchester United is Confusing
+## 6. Manchester United Needs Direction
 
 Sample anomaly, no real connection to the others, a club lacking direction
 
