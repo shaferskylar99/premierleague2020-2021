@@ -33,13 +33,15 @@ The aforementioned names scored the following percentage of their team's goals: 
   
   Klopp and Liverpool are known for their unique pressing style as well as their tendency to drop a defensive midfielder into the back line when they have the ball, and use Firminho as a number 9 rather than a true striker. Liverpool and Leicester are also unique in their usage of outside backs in the attack, allowing them to overlap and put in crosses, playmakers operating from the outside. So, despite their high goal concentration, they express their tactical adjustments and fluidity in their outside backs who often get assists instead, so they, like West Ham, have their own tweaks to the system which are are certainly fluid, and both Liverpool and Leicester have certainly seen success from it, especially compared to the last two teams, the seemingly most rigid, Tottenham and Crystal Palace. 
   
-  When I say the style is somewhat-rigid, I'm referring to how staunchly they follow a static playing structure. 
+  When I say the style is somewhat-rigid, I'm referring to how staunchly they follow a static playing structure. Clearly, it appears that Tottenham is hesitant to push others forward besides the attacking front 3, given that we only included 3 top scorers for them, and they still were tied for the highest goal concentration. Their dependency on their front 3 to attack and score goals is in line with traditional, standard structured football. Crystal Palace seem to be rigid as well. We only included 3 top scorers for them as well, and it was up there with the rest that included 4 top scorers, in goal concentration. To see more evidence that Crystal Palace plays comparatively rigid, standard structured football, please look to the next section after this one, titled "Teams that Act Normal/Boring". 
   
   To summarize in terms of the success of this kind of strategy, Liverpool's verion has clearly brought them success, having won the title in the previous year. Leicester are famous for winning the title after being a relegation candidate, and have risen to be top-6 contenders season after season. West Ham have risen as well, primarily this year. Tottenham was considered somewhat disappointing last season, finishing 7th, and Crystal Palace finished 14th. So, clearly, this style of play is not perfect, and those who tweak it to fit some degree of fluidity and take chances by moving certain players forward seem to have had the most success.
   
 ## 2. Teams that Act Normal/Boring
 
-Teams that have many connections in the first graph
+How could we know if teams seem to have a strategy that produces expected results, beating bad teams and losing good teams more consistently than others, acting as expected? If we look at the first graph, we can see who has the most connections. We will mention some of those teams now, and shame them for playing boring. We will get into the exciting teams later (I love you Brighton).
+
+
 
 ## 3. The Cat and Mouse Game of Possesion vs. Counter Attacking Football
 
