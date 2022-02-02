@@ -19,10 +19,15 @@ Now let's look deeper into these two graphs and what we can learn from them. The
 
 ## 1. Liverpool, Leicester City, West Ham, Tottenham, and Crystal Palace Show Similarities
 
-  All of these teams were connected with at least two of the others in the similarity graph, with Crystal Palace, West Ham, and Tottenham being connected to 3 of the 4 others. These teams were also all, besides Crystal Palace, in between 3rd and 7th in the table, so some of the top-quality teams in the league, but unable to really get close to Manchester City (Liverpool, in 3rd, were 5 points from Manchester United but 17 from Manchester City). 
+  All of these teams were connected with at least two of the others in the similarity graph, with Crystal Palace, West Ham, and Tottenham being connected to 3 of the 4 others. These teams were also all, besides Crystal Palace, in between 3rd and 7th in the table, so some of the top-quality teams in the league, but unable to really get close to Manchester City (Liverpool, in 3rd, were 5 points from Manchester United but 17 from Manchester City), so really, the strategy seems to have went good, but not great, for each of them. 
+  
   Each of these teams plays a somewhat-rigid style, as we can tell by looking at who scores their goals. For Liverpool, 
-  That's not to say that their systems are the same. Klopp and Liverpool are known for their unique pressing style as well as their tendency to drop a defensive midfielder into the back line when they have the ball, and use Firminho as a number 9 rather than a true striker. Liverpool and Leicester are also unique in their usage of outside backs in the attack. 
-  Instead, when I say the style is somewhat-rigid, 
+  
+  That's not to say that their systems are the same. Klopp and Liverpool are known for their unique pressing style as well as their tendency to drop a defensive midfielder into the back line when they have the ball, and use Firminho as a number 9 rather than a true striker. Liverpool and Leicester are also unique in their usage of outside backs in the attack. Each of these teams also have their own individual preferences in pressing or sitting back, counter-attacking versus wanting possesion, etc. Clearly, there are significant tactical tweaks between the teams.
+  
+  Instead, when I say the style is somewhat-rigid, I'm referring to the formation they prefer, and how they prefer to utilize space and fluidity. 
+  
+  In terms of the success of this kind of strategy, Liverpool's verion has clearly brought them success, having won the title in the previous year. Leicester are famous for winning the title after being a relegation candidate, and have risen to be top-6 contenders season after season. West Ham have risen as well, primarily this year, 
 
 ## 2. Manchester United is Confusing
 
