@@ -39,18 +39,26 @@ The aforementioned names scored the following percentage of their team's goals: 
   
 ## 2. Teams that Act Normal/Boring
 
-How could we know if teams seem to have a strategy that produces expected results, beating bad teams and losing good teams more consistently than others, acting as expected? If we look at the first graph, we can see who has the most connections, who the most teams are correlated with, and in turn who is most correlated with the norm. We will mention some of those teams now, and shame them for playing boring. We will get into the exciting teams later (I love you Brighton).
+How could we know if teams seem to have a strategy that produces expected results, beating bad teams and losing good teams more consistently than others, acting as expected? We can look at who has the highest summed correlations with all other teams, in terms of who they beat and lost to. We will get into the exciting teams later (I love you Brighton). Here is the graph.
+
+![image](https://user-images.githubusercontent.com/56563084/152572916-a652faa0-74d2-41c5-9dad-2b8ae8fbadf2.png)
+
+First, I'd like to note, Manchester City are not boring. Anyone who pays attention to the league knows that. I think part of the reason they are up so high in this graph is just because they beat almost everyone last season, they were so dominant. The other three of the top four, on the other hand, make sense. We've already been over how standard it seems Tottenham and Crystal Palace play, lacking uniqueness and creativity, and this chart tends to back that up. Southampton appears to be a similar team, very much just a regular team in the lower half of the table, which is unfortunate, but at least they avoided relegation! Can't argue with the results, I suppose. You may have noticed that none of the bottom 3 are here, but when you barely beat anybody, it does get harder to be correlated with other teams and their wins, and I think that most people who watched their matches would agree that the relegated teams last season played fairly standard, pedestrian football. You may be wondering if I'm going to comment on Leicester, West Ham, or Leeds, who are next in line. No, because I think they play at least slightly more unique styles, and thus, although they may beat expected teams and lose to expected teams, they do it in an interesting fashion. In particular, Leeds is a very unique team for the bottom half of the table!
+
+## 3. Parking the Bus and Countering or Playing the Game: Top Teams and Relegation Candidates
+
+Possession versus counter-attacking is a constant cat and mouse game in football. Traditionally, relegation candidates park the bus against the top teams, attacking with pace when they can, with only a couple players forward, hoping to take advantage of the top teams pushing players forward pursuing goals. Top teams seek to control possession, taking their team, trying to pick apart the defense gradually. The relegation candidates look scared, and the top teams can look frustrated with the defensive style. Honestly, these kinds of games can be boring. I can't blame either team, though, for this kind of strategy. From a relegation candidate's perspective, it can lock out the big teams, potentially chasing a draw for even a single key point to avoid relegation, and it can provide opportunities with lots of space in the few moments of attack that are generated. Leicester won the league on a blistering counter attack and a solid defense, remember. From a top team's perspective, they have to react to this low-block, bus-parking strategy by trying to move the ball to break down the structured, deep defense. 
+
+Every match, each team reacts to each other, and lower-table team decides how much respect to give the top team. For example, so many lower-league teams, when they play Manchester City, park the bus, because they know how good Manchester City is. They have a surplus of respect, which would at first appear to be a good thing, but it really isn't always. The following graph gives the average score (on the previously discussed 0-2 scale) of the top 8 teams against the top 4, minus the average score against the top 15 (I've excluded Brighton, which I will explain later).
+
+![image](https://user-images.githubusercontent.com/56563084/152584426-af97f4d8-3ea6-4af4-8bee-b2e1c97eaf36.png)
 
 
 
-## 3. The Cat and Mouse Game of Possesion vs. Counter Attacking Football
-
-Manchester City, Liverpool, Leicester City
-
-## 4. Parking the Bus and Countering or Playing the Game: Top Teams and Relegation Candidates
 
 Chelsea and Brighton as opposites in league and style, but neither can finish, Leicester and Liverpool Counter versus Sheffield or West Brom, good or bad, attack or low block, Risk of playing straight up but also high-reward
 Note that Chelsea and Brighton are listed as similar
+Manchester City, Liverpool, Leicester City
 
 ## 5. If You Want to Punch Above Your Weight, Bring a Unique Gameplan/Bielsa Ball.
 
@@ -68,5 +76,5 @@ Sample anomaly, no real connection to the others, a club lacking direction
 
 ## 7. Conclusion
 
-I hope you enjoyed, and let me know if you'd like me to make more! I think doing Serie A next could be interesting, especially considering the tactics of Atalanta. 
+I hope you enjoyed, and let me know if you'd like me to make more! I think doing Serie A next could be interesting, especially considering the tactics of Atalanta. Let me know if you want me to do one for next season as well, so I can talk about Brentford, another interesting lower-half team that is willing to take chances, which you love to see!
 
