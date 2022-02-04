@@ -55,19 +55,22 @@ Every match, each team reacts to each other, and lower-table team decides how mu
 
 As you can see, some teams comparatively struggle to secure wins against bad teams. Manchester United is an inconsistent anomaly (which we will discuss later), but Manchester City and Liverpool, the winners of the league in this season and the season before it, clearly have some of the lowest values in the graph. To me, this is evidence of the struggle of breaking down teams that use a low-block defensive strategy against you, out of a surplus of respect. Manchester City loves to have the ball at least, so it is at least associated with their natural playing style, but the low-block is still evidently hard even for them to break down. Liverpool love to attack directly, to attack with pace, find open space on the counter, and to press teams that have the ball. This does not match up at all with how they have to play against bad teams who park the bus and take few chances, which is why they actually get more average points on our scale against the top 15, and less against the bottom 4!
 
-An interesting contrast in this discussion is Brighton and Chelsea. Chelsea, particularly under the Tuchel era, love to play with wingbacks, very defensively (especially for a top team), and have often struggled to find goals (much of the blame of this has come upon their strikers, such as Werner). Brighton, on the other hand, attack and play much more fluidly and openly than other relegation candidate teams, even when they're against top opposition. 
-
-Chelsea and Brighton as opposites in league and style, but neither can finish, Leicester and Liverpool Counter versus Sheffield or West Brom, good or bad, attack or low block, Risk of playing straight up but also high-reward
-Note that Chelsea and Brighton are listed as similar
-Manchester City, Liverpool, Leicester City
+An interesting contrast in this discussion is Brighton and Chelsea. Chelsea, particularly under the Tuchel era, love to play with wingbacks, very defensively (especially for a top team), and have often struggled to find goals (much of the blame of this has come upon their strikers, such as Werner). Brighton, on the other hand, attack and play much more fluidly and openly than other relegation candidate teams, even when they're against top opposition, and by expected goals, would've taken 5th in the league last season, but instead took 16th, based on bad finishing and debatably bad luck. These two teams are also listed as similar in our graphs from the beginning, showing a correlation in the teams they beat. So, a top team that plays defensively, and a lower-league team that plays openly, beat similar teams. Brighton is such a unique sample in our data set, in general. They are the only team in our data set which has a negative summed correlation with every other team, from the previous graph on the topic. They are more likely to beat good teams than other lower-table teams, but are less likely to beat other lower-league teams, it seems. Maybe, as they go out and attack lower-table teams, they get caught in the cat and mouse game of a low-block, same as Manchester City and Liverpool. They play better when they play teams that are also willing to attack. Chelsea are more likely to win the cat and mouse game against better teams, as they are the ones who play defensively and pick their moments, but against bad teams, neither attacks with as much tenacity, both playing the role of hesitancy. So Chelsea is a good team acting as a bad team, and Brighton is a bad team acting as a good team. In either case, they beat good teams more often than they should, and struggle to secure wins against worse teams.
 
 ## 5. If You Want to Punch Above Your Weight, Bring a Unique Gameplan/Bielsa Ball.
 
-Brighton have many connections in the second graph, Leeds, Leicester winning the league, West Ham, Liverpool, Leicester
+So, what have we learned from this analysis so far? I think, in order to best summarize what we can bring from our insights so far, we must look at the (unfortunate) core of premier league football, money.
+
+How do teams of various levels of investment in players stack up against each other? What strategies seem to create the most success for the least cost?
+
+
+
+Leeds, Leicester winning the league, West Ham, Liverpool, Leicester
 At some point you have to push numbers forward to pursue chance creation, it's a matter of deciding when you can do so to maximize return and minimize the risk of conceding a goal yourself. 
 Why did I group clubs by the similarity of their wins in the first place? I thought this would be best by understanding that unique gameplans utilize unique spaces, allowing them to perform better against certain opposing strategies. In turn, if we look at the similarity of results, we can then deduce who likely plays the most like each other. 
 Chelsea, Arsenal, and fear: Man City having to break down low-blocks, while Chelsea and Arsenal don't always have to, because they get less respect, that's why Arsenal and Mahcester City are so unrelated, Arsenal gets to play bad teams straightup, Manchester City does not
 Fluidity (given that each player on a team is capable) is clearly worth it in most cases
+Leeds
 
 The two clubs who saw the most success (Manchester City in winning the league, Chelsea in winning the Champions League) each chose to be unique in how they played the game.
 
