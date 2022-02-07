@@ -61,7 +61,7 @@ Brighton is such a unique sample in our data set, in general. They are the only 
 
 Another team that Brighton is more related to than others in the first graph is Leeds. Bielsa is their iconic manager, known for his unique style, and loves to push numbers forward to try and make chances. They each are teams whose general goals are to avoid relegation, not to compete for a champions league position, yet both of them take chances and play fluidly, unafraid to attack. This leads us into our next point.
 
-## 5. If You Want to Punch Above Your Weight, Bring a Unique Gameplan/Bielsa Ball.
+## 5. If You Want to Punch Above Your Weight, Strive to Be Unique.
 
 So, what have we learned from this analysis so far? I think, in order to best summarize what we can bring from our insights so far, we must look at who exceeded their expectations. 
 
@@ -81,7 +81,7 @@ So what do all of these teams have in common? They all have a notably unique sty
 
 An honorable mention will be Liverpool, who won the league in the previous season, and struggled with injuries throughout this one on a scale no other top team faced, still taking 3rd. They are tactically unique, and have been very, very successful in Klopp's era.
 
-At some point you have to push numbers forward to pursue chance creation, it's a matter of deciding when you can do so to maximize return and minimize the risk of conceding a goal yourself. Clearly, when clubs make their own unique gameplans on the manner, they tend to find the most success. I think that is a beautiful part of football.
+At some point you have to push numbers forward to pursue chance creation, it's a matter of deciding when you can do so to maximize return and minimize the risk of conceding a goal yourself. Clearly, when clubs make their own choices based on unique ideas, they tend to find the most success. I think that is a beautiful part of football.
 
 ## 6. Manchester United Needs Direction
 
