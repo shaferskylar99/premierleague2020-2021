@@ -15,8 +15,6 @@ Next is bottom 3/4 least similar teams associated with each team. Teams that are
 
 Now let's look deeper into these two graphs and what we can learn from them. The following sections are insights derived from a combination of these graphs and external information which will be explained.
 
-# 1. Playstyles and Their Ability to Match Up
-
 ## 1. Liverpool, Leicester City, West Ham, Tottenham, and Crystal Palace Show Similarities
 
   All of these teams were connected with at least two of the others in the similarity graph, with Crystal Palace, West Ham, and Tottenham being connected to 3 of the 4 others. These teams were also all, besides Crystal Palace, in between 3rd and 7th in the table, so some of the top-quality teams in the league, but unable to really get close to Manchester City (Liverpool, in 3rd, were 5 points from Manchester United but 17 from Manchester City), so really, the strategy seems to have went good, but not great, for each of them this past season, but there's certainly more to the story.
@@ -59,7 +57,15 @@ An interesting contrast in this discussion is Brighton and Chelsea. Chelsea, par
 
 Brighton is such a unique sample in our data set, in general. They are the only team in our data set which has a negative summed correlation with every other team, from the previous graph on the topic. They are more likely to beat good teams than other lower-table teams, but are less likely to beat other lower-league teams, it seems. Maybe, as they go out and attack lower-table teams, they get caught in the cat and mouse game of a low-block, same as Manchester City and Liverpool. They play better when they play teams that are also willing to attack. Chelsea are more likely to win the cat and mouse game against better teams, as they are the ones who play defensively and pick their moments, but against bad teams, neither attacks with as much tenacity, both playing the role of hesitancy. So Chelsea is a good team acting as a bad team, and Brighton is a bad team acting as a good team. In either case, they beat good teams more often than they should, and struggle to secure wins against worse teams.
 
-Another team that Brighton is more related to than others in the first graph is Leeds. Bielsa is their iconic manager, known for his unique style, and loves to push numbers forward to try and make chances. They each are teams whose general goals are to avoid relegation, not to compete for a champions league position, yet both of them take chances and play fluidly, unafraid to attack. This leads us into our next point.
+Another team that Brighton is more related to than others in the first graph is Leeds. Bielsa is their iconic manager, known for his unique style, and loves to push numbers forward to try and make chances. They each are teams whose general goals are to avoid relegation, not to compete for a champions league position, yet both of them take chances and play fluidly, unafraid to attack.
+
+## 4. Manchester United are so Statistically Confusing
+
+They seem as though they likely play with a traditional structure, given their top scorers, yet they are not near the top scorers in our established metric of how normal/boring teams are. They are instead in the middle of the pack. This relationship gives the impression that they are inconsistent. I think that those who watch them play would likely say something similar.
+
+That being said, they did finish 2nd in the league, but their expected goal difference would have had them finish 4th, so they seem to have gotten a bit lucky. Either way, for such a legendary and rich club, this season, and the last 5 have felt like a disappointment. To not win anything of significant value in recent memory is certainly below expectations. So how can Manchester United return to the pinnacle of football?
+
+If I were to give a word of advice to clubs like Manchester United, Arsenal, or Tottenham, who all fell below expectations, I'd say the following.
 
 ## 5. If You Want to Punch Above Your Weight, Strive to Be Unique.
 
@@ -77,17 +83,13 @@ So, what have we learned from this analysis so far? I think, in order to best su
 
 6. West Ham took 6th, rising as well, taking a spot in the Europa League from the hands of Tottenham and Arsenal, traditionally top 6 clubs.
 
-So what do all of these teams have in common? They all have a notably unique style that we have previously discussed that set them apart from other clubs. Leicester and West Ham beat the teams they are supposed to beat, but they do it with tweaks to their system that make them somewhat unconventional. Brighton and Leeds are small teams that aren't afraid to aggressively move numbers forward, making them distinct from the other small teams who prefer to pack it into defense and take their few chances. Chelsea, as we've discussed, are a big team who plays a unique style, particularly in their defensiveness as well as their use of wing backs, with Tuchel known as an interesting tactician. Finally, Manchester City, with Pep Guardiola, a well-known genius in terms of his style of play. Manchester City are a top team in the world, and a large part of that is the work of Pep in teaching his particular style.
+So what do all of these teams have in common? They all have a notably unique style or identity that we have previously discussed that set them apart from other clubs. Leicester and West Ham usually beat the teams they are supposed to beat and usualluy lose to who they expect to, but they do it with tweaks to their system that make them somewhat unconventional. Brighton and Leeds are small teams that aren't afraid to aggressively move numbers forward, making them distinct from the other small teams who prefer to pack it into defense and take their few chances. Chelsea, as we've discussed, are a big team who plays a unique style, particularly in their defensiveness as well as their use of wing backs, with Tuchel known as an interesting tactician. Finally, Manchester City, with Pep Guardiola, a well-known genius in terms of his style of play. Manchester City are a top team in the world, and a large part of that is the work of Pep in teaching his particular style.
 
 An honorable mention will be Liverpool, who won the league in the previous season, and struggled with injuries throughout this one on a scale no other top team faced, still taking 3rd. They are tactically unique, and have been very, very successful in Klopp's era.
 
 At some point you have to push numbers forward to pursue chance creation, it's a matter of deciding when you can do so to maximize return and minimize the risk of conceding a goal yourself. Clearly, when clubs make their own choices based on unique ideas, they tend to find the most success. I think that is a beautiful part of football.
 
-## 6. Manchester United Needs Direction
-
-Sample anomaly, no real connection to the others, a club lacking direction
-
-## 7. Conclusion
+## 6. Conclusion
 
 I hope you enjoyed, and let me know if you'd like me to make more! I think doing Serie A next could be interesting, especially considering the tactics of Atalanta. Let me know if you want me to do one for next season as well, so I can talk about Brentford, another interesting lower-half team that is willing to take chances, which you love to see!
 
